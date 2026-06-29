@@ -4,7 +4,7 @@ A modern influencer discovery platform built with React, TypeScript, Vite, and T
 
 ## Live Demo
 
-🔗 **Live URL:** <!-- Add your Vercel URL here after deploying -->
+🔗 **Live URL:** https://wobb-assignment-chi.vercel.app/
 
 > Deploy with `npm run build`. The `dist/` folder is production-ready for Vercel/Netlify.
 
